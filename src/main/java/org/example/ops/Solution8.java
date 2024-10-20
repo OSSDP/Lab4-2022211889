@@ -57,7 +57,7 @@ public class Solution8 {
 
     public int numIslands(char[][] grid) {
         //修改3，当只有一个单位时，应依旧考虑是否为岛屿，将<=1改为==0
-        if (grid == null || grid.length == 0) {
+        if (grid == null || grid.length <= 1) {
             return 0;
         }
 
