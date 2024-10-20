@@ -37,7 +37,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "fix",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/grade_3/开源软件实践/Lab4/OSSDP-LAB4/src/main/java/org/example/ops",
     "node.js.detected.package.eslint": "true",
@@ -74,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1729393136640</updated>
       <workItem from="1729393137807" duration="194000" />
-      <workItem from="1729393340614" duration="3349000" />
+      <workItem from="1729393340614" duration="3820000" />
     </task>
     <servers />
   </component>
