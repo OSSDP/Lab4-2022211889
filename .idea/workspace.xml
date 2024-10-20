@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="059b9fe6-f3d3-4397-b5a6-d7a8a03ba14c" name="Changes" comment="" />
+    <list default="true" id="059b9fe6-f3d3-4397-b5a6-d7a8a03ba14c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/action_demo.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/action_demo.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,9 +47,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "project.propCompiler",
     "vue.rearranger.settings.migration": "true"
   }
@@ -65,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1729393136640</updated>
       <workItem from="1729393137807" duration="194000" />
-      <workItem from="1729393340614" duration="1255000" />
+      <workItem from="1729393340614" duration="1967000" />
     </task>
     <servers />
   </component>
